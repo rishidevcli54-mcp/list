@@ -1,4 +1,4 @@
-//go:build ignore
+//go:build and deployed
 
 // This script is run by `go generate` (see domains_test.go) to
 // download a new copy of the IDNA test inputs. They are stored
